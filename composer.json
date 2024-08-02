@@ -46,6 +46,8 @@
     "wpackagist-theme/teczilla":"^1.1.5",
     "wpackagist-theme/twentytwentytwo":"^1.2",
     "wpackagist-theme/teczilla-multipurpose":"^1.0.0",
+    "wpackagist-theme/blockify":"^1.4.10",
+    "wpackagist-theme/saasify":"^0.6.0",
     "wpackagist-theme/teczilla-app":"^1.0.2",
     "wpackagist-theme/saas-software-technology" : "0.5.5"
   },
