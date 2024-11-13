@@ -42,7 +42,7 @@
     "wpackagist-plugin/templates-patterns-collection" : "1.2.10",
     "wpackagist-plugin/mailgun": "1.9.9",
     "wpackagist-plugin/wordpress-seo": "*",
-    "wpackagist-plugin/wp-form": "*",
+    "wpackagist-plugin/wp-forms": "*",
     "wpackagist-plugin/google-analytics-for-wordpress": "*",
     "wpackagist-theme/twentytwentytwo":"^1.2",
     "wpackagist-theme/neve":"^3.8.10",
