@@ -43,7 +43,7 @@
     "wpackagist-plugin/mailgun": "1.9.9",
     "wpackagist-plugin/wordpress-seo": "*",
     "wpackagist-plugin/wpforms-lite": "*",
-    "wpackagist-plugin/wpforms-lite": "*",
+    "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/code-snippets":"*",
     "wpackagist-plugin/google-analytics-for-wordpress": "*",
     "wpackagist-theme/twentytwentytwo":"^1.2",
