@@ -44,6 +44,7 @@
     "wpackagist-plugin/wordpress-seo": "*",
     "wpackagist-plugin/wpforms-lite": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
+    "wpackagist-plugin/cookie-notice": "*",
     "wpackagist-plugin/code-snippets":"*",
     "wpackagist-plugin/google-analytics-for-wordpress": "*",
     "wpackagist-plugin/multiple-domain-mapping-on-single-site" : "*",
