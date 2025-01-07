@@ -42,6 +42,7 @@
     "wpackagist-plugin/templates-patterns-collection" : "1.2.10",
     "wpackagist-plugin/mailgun": "1.9.9",
     "wpackagist-plugin/wordpress-seo": "*",
+    "wpackagist-plugin/megamenu": "*",
     "wpackagist-plugin/wpforms-lite": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/cookie-notice": "*",
