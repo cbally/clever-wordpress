@@ -49,6 +49,7 @@
     "wpackagist-plugin/code-snippets":"*",
     "wpackagist-plugin/carousel-slider":"*",
     "wpackagist-plugin/crisp":"*",
+    "wpackagist-plugin/wp-robots-txt":"*",
     "wpackagist-plugin/google-analytics-for-wordpress": "*",
     "wpackagist-plugin/multiple-domain-mapping-on-single-site" : "*",
     "wpackagist-theme/twentytwentytwo":"^1.2",
