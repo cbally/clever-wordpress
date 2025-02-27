@@ -52,6 +52,7 @@
     "wpackagist-plugin/wp-robots-txt":"*",
     "wpackagist-plugin/google-analytics-for-wordpress": "*",
     "wpackagist-plugin/multiple-domain-mapping-on-single-site" : "*",
+    "wpackagist-plugin/post-category-prev-next-link-fix":"*",
     "wpackagist-theme/twentytwentytwo":"^1.2",
     "wpackagist-theme/neve":"^3.8.10",
     "wpackagist-theme/teczilla":"^1.1.5",
